@@ -2,10 +2,13 @@
 
 def sum_or_product(num1, num2):
 	product = num1 * num2
-	if product >= 1000:
+	if product <= 1000:
 		return product 
 	else:
-		return num1+num2
+		return num1 + num2
 		
-result=sum_or_product(int(input()), int(input()))
-print(result)
+result = sum_or_product(
+int(input("Enter 1st integer: ")),
+int(input("Enter 2nd integer: "))
+)
+print(f"Result: {result}")
