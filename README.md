@@ -1,7 +1,7 @@
 # PYnative Python Exercises
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python&logoColor=white)
-![Progress](https://img.shields.io/badge/Progress-5%2F40-orange)
+![Progress](https://img.shields.io/badge/Progress-11%2F40-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 This repository contains my solutions to the **Python Basic Exercise for Beginners** series by **PYnative**.
