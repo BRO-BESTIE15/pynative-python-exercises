@@ -61,7 +61,7 @@ This repository contains my solutions to the **Python Basic Exercise for Beginne
 
 ## 📊 Progress
 
-Completed: **5/40** ✅
+Completed: **11/40** ✅
 
 ## 📜 Credits
 
