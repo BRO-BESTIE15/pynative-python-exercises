@@ -1,0 +1,1 @@
+"""Print a downward half-pyramid pattern using stars (*)."""
