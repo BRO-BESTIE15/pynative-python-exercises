@@ -1,0 +1,1 @@
+"""Start with a list of 10 numbers. Iterate through them and sort them into two separate lists: one for even numbers and one for odd numbers."""

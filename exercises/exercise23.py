@@ -1,0 +1,1 @@
+"""Write a program to check if a given number is a palindrome. A palindrome number remains the same when its digits are reversed (e.g., 121, 545)."""

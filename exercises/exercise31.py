@@ -1,0 +1,1 @@
+'''Write a program to find all prime numbers up to 20, but only print every second (alternate) prime number found.'''

@@ -1,0 +1,1 @@
+"""Print a multiplication table from 1 to 10 in a formatted grid."""

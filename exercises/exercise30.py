@@ -1,0 +1,1 @@
+'''Write a program that counts how many times each word appears in a given paragraph and stores these counts in a dictionary.'''

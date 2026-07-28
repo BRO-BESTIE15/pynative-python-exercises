@@ -1,0 +1,1 @@
+"""Write a function called exponent(base, exp) that returns an integer value of the base raised to the power of the exponent."""

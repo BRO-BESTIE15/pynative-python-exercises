@@ -1,0 +1,1 @@
+'''Create a countdown timer that starts from a given number and counts down to zero using a while loop.'''
